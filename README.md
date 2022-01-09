@@ -19,11 +19,11 @@ This app show products data from an SQL database and you can also see and add by
   https://watch.screencastify.com/v/jsHAr7ApSsPpBOlmKw3I
 
   ## Screenshots
- https://imgur.com/3qxPVZV
- https://imgur.com/Kflj0Df
- https://imgur.com/dAlwtBf
- https://imgur.com/gwbntgr
- https://imgur.com/zOEiJki
- 
+ <li> https://imgur.com/3qxPVZV
+ <li> https://imgur.com/Kflj0Df
+ <li> https://imgur.com/dAlwtBf
+ <li> https://imgur.com/gwbntgr
+ <li> https://imgur.com/zOEiJki
+
   ## Questions
   If you have any questions about this application please feel free to email me at brantheman8@comcast.net. If you would like to see more of my projects please visit https://github.com/brandonsauer8.
