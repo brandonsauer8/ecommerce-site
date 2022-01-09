@@ -19,7 +19,7 @@ This app show products data from an SQL database and you can also see and add by
   https://watch.screencastify.com/v/jsHAr7ApSsPpBOlmKw3I
 
   ## Screenshots
-  ![alt text](assets/2022-01-09 13_38_22-Mail.png "Description goes here")
+![Alt text]("C:\Users\brant\Desktop\ecommerce-site\assets\2022-01-09 13_38_22-Mail.png" "Optional Title")
 
 
   ## Questions
